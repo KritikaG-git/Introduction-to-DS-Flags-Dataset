@@ -1,17 +1,10 @@
-# COS60008 Introduction to Data Science
-## Assignment 2, 2023, Semester 1
-## Student Details:
-* Name: Kritika.
-* Student Id: 104361002
-* Email: mailto:104361002@student.swin.edu.au
-* Submission Date: 29/05/23
-* TuteLab Class: Thursday 3:30 - 5:30pm.
+# Introduction to Data Science
 
 ## Task 1: Problem Formulation, Data Acquisition and Preparation
 
 ## Data Source url: https://archive.ics.uci.edu/ml/datasets/Flags
 
-### This assignment is done on JupyterLab Notebook which can be found in Anaconda Navigator.
+### This project is done on JupyterLab Notebook which can be found in Anaconda Navigator.
 
 
 ```python
